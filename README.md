@@ -5,4 +5,6 @@ Execution order
 	Dataset -> ischemia_dataset.csv
 3. classification
 	Dataset -> final_df.csv
-Best models for Random Forest and Neural Network already saved but not inserted in the repository beacuase of size issues.
+
+Dataset not available in the repository beacause of size issues.
+Best models for Random Forest and Neural Network already saved but not available beacuase of size issues.
